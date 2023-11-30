@@ -2,6 +2,7 @@
   <body v-for="station in bus_station">
     <div id="bus-table">
         <h2>{{ station.station_name }}</h2>
+        <h2>test</h2>
         <table>
             <thead>
                 <tr>
