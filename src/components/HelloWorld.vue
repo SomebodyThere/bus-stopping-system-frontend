@@ -3,8 +3,14 @@
     <div id="bus-table">
         <h2>{{ station.station_name }}</h2>
         <h2>test</h2>
+        <h2>test2</h2>
         <table>
             <thead>
+                <tr>
+                    <th>버스 번호</th>
+                    <th>다음 버스 도착 시간</th>
+                    <th>정차 버튼</th>
+                </tr>
                 <tr>
                     <th>버스 번호</th>
                     <th>다음 버스 도착 시간</th>
